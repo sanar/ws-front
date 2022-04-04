@@ -12,6 +12,26 @@
   align-items: center;
 }
 
+.nav {
+  display: flex;
+}
+
+.highlights {
+  display: flex;
+}
+
+.highlights img {
+  width: 100%;
+}
+
+.feed {
+  width: 100%;
+}
+
+.feed img {
+  width: 20%;
+}
+
 .footer {
   display: flex;
   flex: 1;
